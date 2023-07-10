@@ -1,0 +1,21 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    font-size: 10px;
+    background-image: url(img/images\ \(2\).jpg);
+    height: 75vh;
+  }
+  .bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    font-size: 10px;
+    background-image: url(img/tải\ xuống.jpg);
+    height: 75vh;
+  }
+  .bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    font-size: 10px;
+    background-image: url(img/tải\ xuống\ \(1\).jpg);
+    height: 75vh;
+  }
